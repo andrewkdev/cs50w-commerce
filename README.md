@@ -1,6 +1,6 @@
 # CS50W Commerce Project
 
-An eBay-like e-commerce auction site built with Django as part of Harvard's CS50W course. This web application allows users to create auction listings, place bids, comment on listings, and manage a personalized watchlist.
+An eBay-like e-commerce auction site built with Django as part of Harvard's CS50w course. This web application allows users to create auction listings, place bids, comment on listings, and manage a personalized watchlist.
 
 ## Features
 
@@ -26,7 +26,7 @@ To run the project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/andrewkgithub/cs50w-commerce.git
+   git clone https://github.com/andrewkdev/cs50w-commerce.git
    ```
 
 2. Navigate to the project directory:
